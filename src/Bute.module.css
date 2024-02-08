@@ -1,0 +1,14 @@
+.line::after{
+  content: "";
+  position: absolute;
+  width: 20%;
+  height: 3px;
+  background-color:#2c3e50;
+  top:90%;
+  left: 0%;
+  opacity: 1;
+}
+.line{
+  position: relative;
+  font-size:32px;
+}
